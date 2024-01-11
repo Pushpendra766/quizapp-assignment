@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: "#191d88";
+    --color-secondary: "#279EFF";
+  }
+}
+body {
+  background-color: #191d88;
+}
