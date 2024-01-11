@@ -4,7 +4,7 @@ This ReactJS web application, built with Vite, is designed to take user input, p
 
 ## Demo
 
-You can see video demo here - [Demo Video](https://youtu.be/nP188nhOnwg)
+You can see video demo here - [Demo Video](https://youtu.be/58g48baJLug)
 
 ## Live Preview
 
@@ -52,4 +52,3 @@ The major components of this application include:
 During the development of this app, a significant challenge emerged while implementing the navigation panel. Initially, I struggled to figure out how to seamlessly navigate to specific quiz questions upon clicking. This challenge was addressed by breaking down the problem into smaller parts and incrementally solving it, ensuring a smooth and user-friendly navigation experience.
 
 Another noteworthy challenge was devising a method to generate the final report. Determining how to calculate and display the user's quiz results, including their name, email, and percentage of correct answers, posed difficulties. This challenge was ultimately overcome through careful data handling and storing user response into an array.
-# quizapp-assignment
